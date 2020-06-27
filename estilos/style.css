@@ -7,9 +7,22 @@ body {
     background-color: rgb(63, 63, 216);
 }
 
+#foto{
+    border-radius: 50%; width:400px; 
+    height: 400px; 
+}
+
+img.lado {
+    float: right;
+    border-radius: 10%; 
+    width:120px; 
+    height: 120px; 
+    margin-left: 10px; 
+}
+
 main {
     background-color: white;
-    width: 500px;
+    width: 800px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(183, 183, 185);
